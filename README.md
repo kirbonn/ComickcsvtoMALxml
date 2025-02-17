@@ -10,5 +10,5 @@ pip install pandas
 ```
 and python 3.x
 ## Usage
-
-### Run the Script
+### 1.install dependencies
+### 2.Run the Script
