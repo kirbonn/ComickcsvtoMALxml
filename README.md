@@ -12,3 +12,6 @@ and python 3.x
 ## Usage
 ### 1.install dependencies
 ### 2.Run the Script
+
+# issues?
+feel free to contact me on discord! kirbonV2#6526
