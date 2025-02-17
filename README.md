@@ -3,7 +3,7 @@
 
 converts a [Comick](https://comick.io/) csv into an xml that can be imported into [MAL](https://myanimelist.com/) or [Anilist](https://anilist.co/).
 
-dependencies:
+## dependencies:
 
 ```sh
 pip install pandas
