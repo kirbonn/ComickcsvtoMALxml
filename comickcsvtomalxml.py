@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd # RUN pip install pandas !!!!!
 import time
 import xml.etree.ElementTree as ET
 import re
