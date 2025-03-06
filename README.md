@@ -1,7 +1,7 @@
 
 # Comick CSV to MAL XML Converter (uses python)
 
-converts a [Comick](https://comick.io/) csv into an xml that can be imported into [MAL](https://myanimelist.com/) or [Anilist](https://anilist.co/).
+converts a [Comick](https://comick.io/) csv into an xml that can be imported into [MAL](https://myanimelist.com/) or [Anilist](https://anilist.co/). /n
 (UPDATE: This has been added to comick!)
 
 ## dependencies:
